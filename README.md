@@ -27,19 +27,21 @@ Here are some ideas to get you started:
 <!-- Linguagens -->
 
 <hr>
-<table style="margin: 0">
-  <tr>
-    <td>
-      <img align="center" alt="Gabriel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    </td>
-    <td>
-      <img align="center" alt="Gabriel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </td>
-    <td>
-      <img align="center" alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="margin: 0">
+    <tr>
+      <td>
+        <img align="center" alt="Gabriel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      </td>
+      <td>
+        <img align="center" alt="Gabriel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      </td>
+      <td>
+        <img align="center" alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      </td>
+    </tr>
+  </table>
+</div>
 <hr>
 <!-- Avatar (opcional)
 
