@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 <!-- Stats -->
 
-<!--
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cssgabriel&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/cssgabriel)
+<!-- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cssgabriel&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/cssgabriel)
 -->
 
 <div align="center">
