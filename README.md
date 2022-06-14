@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 -->
 <!-- Stats -->
 
+<!-- incluir
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cssgabriel&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/cssgabriel)
+-->
+
 <div align="center">
   <a href="https://github.com/cssgabriel">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cssgabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -45,7 +49,7 @@ Here are some ideas to get you started:
 <hr>
 <!-- Avatar (opcional)
 
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+    <img align="right" alt="Gabriel-picture" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 
  -->
   
@@ -66,9 +70,10 @@ Here are some ideas to get you started:
 -->
 <!--Cobrinha
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/cssgabriel/cssgabriel/blob/output/github-contribution-grid-snake.svg)
 
 -->
+
 
   
   
