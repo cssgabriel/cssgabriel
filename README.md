@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/cssgabriel/github-readme-streak-stats">
-    <p align="center">
+    <p>
       <img width="500em" src="https://github-readme-stats.vercel.app/api?username=cssgabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </p>
-    <p align="center">
+    <p>
       <img width="500em" src="https://github-readme-streak-stats.herokuapp.com?user=cssgabriel&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
     </p>
-    <p align="center">
+    <p>
       <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssgabriel&layout=compact&langs_count=7&theme=dracula"/>
     </p>
   </a>
@@ -48,16 +48,19 @@ Here are some ideas to get you started:
 
 <hr>
 <div align="center">
-  <table style="margin: 0">
+  <table>
     <tr>
       <td>
-        <img align="center" alt="Gabriel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       </td>
       <td>
-        <img align="center" alt="Gabriel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       </td>
       <td>
-        <img align="center" alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      </td>
+      <td>
+        <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
       </td>
     </tr>
   </table>
