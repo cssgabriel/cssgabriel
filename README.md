@@ -2,6 +2,14 @@
   <h1>Hello, world! 👋</h1>
 </div>
 
+<!-- Letreiro -->
+
+<!-- Typing SVG - [https://github.com/DenverCoder1/readme-typing-svg](https://readme-typing-svg.herokuapp.com/demo/) -->
+
+<p align="center">
+  <a href="https://github.com/cssgabriel/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=consolas&size=24&duration=4000&color=25D1E8&center=true&lines=Desenvolvedor+Web+Front-end...;Em+constante+aprendizado!"></a>
+</p>
+
 <!--
 **cssgabriel/cssgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,13 +27,21 @@ Here are some ideas to get you started:
 <!-- Stats -->
 
 <!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cssgabriel&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/cssgabriel)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cssgabriel&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/cssgabriel)
 -->
 
 <div align="center">
-  <a href="https://github.com/cssgabriel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cssgabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssgabriel&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/cssgabriel/github-readme-streak-stats">
+    <p align="center">
+      <img width="500em" src="https://github-readme-stats.vercel.app/api?username=cssgabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </p>
+    <p align="center">
+      <img width="500em" src="https://github-readme-streak-stats.herokuapp.com?user=cssgabriel&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+    </p>
+    <p align="center">
+      <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssgabriel&layout=compact&langs_count=7&theme=dracula"/>
+    </p>
+  </a>
 </div>
 
 <!-- Linguagens -->
@@ -68,14 +84,12 @@ Here are some ideas to get you started:
 
 </div>
 -->
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=cssgabriel&theme=dracula)](https://github.com/cssgabriel/github-readme-activity-graph)
 
-  ![Snake animation](https://github.com/cssgabriel/cssgabriel/blob/output/github-contribution-grid-snake.svg)
+<!-- snake game -->
+![Snake animation](https://github.com/cssgabriel/cssgabriel/blob/output/github-contribution-grid-snake.svg)
 
-
-
-  
-  
-  
   
   
   
