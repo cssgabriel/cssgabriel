@@ -1,8 +1,9 @@
 <div align="center">
-  <h1>Hello, world! 👋</h1>
+  <h1>
+    Olá, seja bem-vindo ao meu perfil!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h1>
 </div>
-
-<!-- Letreiro -->
 
 <!-- Typing SVG - [https://github.com/DenverCoder1/readme-typing-svg](https://readme-typing-svg.herokuapp.com/demo/) -->
 
@@ -24,51 +25,58 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Stats -->
 
-<!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cssgabriel&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/cssgabriel)
--->
-<div>
-  <div align="left">
-    <a href="https://github.com/cssgabriel/github-readme-streak-stats">
-      <p>
-        <img width="400em" src="https://github-readme-stats.vercel.app/api?username=cssgabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      </p>
-      <p>
-        <img width="400em" src="https://github-readme-streak-stats.herokuapp.com?user=cssgabriel&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
-      </p>
-      <p>
-        <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssgabriel&layout=compact&langs_count=7&theme=dracula"/>
-      </p>
-    </a>
-  </div>
-  <div align="right">
-  </div>
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/cssgabriel/github-readme-streak-stats -->
+
+<div align="center">
+  <a href="https://github.com/cssgabriel/github-readme-streak-stats">
+    <p>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=cssgabriel&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+    </p>
+  </a>
 </div>
 
-<!-- Linguagens -->
+## 👷 Hard Skills
+<!-- Hard Skills -->
 
-<hr>
 <div align="center">
   <table>
     <tr>
       <td>
-        <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       </td>
       <td>
-        <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       </td>
       <td>
-        <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       </td>
       <td>
-        <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
+        <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
       </td>
     </tr>
   </table>
 </div>
-<hr>
+
+## 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+  <div align="center">
+    <a href="https://github.com/cssgabriel/github-readme-streak-stats">
+      <p>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cssgabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssgabriel&layout=compact&langs_count=7&theme=dracula"/>
+      </p>
+    </a>
+  </div>
+</details>
+
 <!-- Avatar (opcional)
 
     <img align="right" alt="Gabriel-picture" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
@@ -90,11 +98,27 @@ Here are some ideas to get you started:
 
 </div>
 -->
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=cssgabriel&theme=dracula)](https://github.com/cssgabriel/github-readme-activity-graph)
+## 🚀 Contribution Graph & Snake Game
 
-<!-- snake game -->
-![Snake animation](https://github.com/cssgabriel/cssgabriel/blob/output/github-contribution-grid-snake.svg)
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+<div align="center">
+  <a href="https://github.com/cssgabriel/github-readme-activity-graph">
+    <p>
+      <img width="850em" src="https://activity-graph.herokuapp.com/graph?username=cssgabriel&theme=dracula">
+    </p>
+  </a>
+</div>
+
+<!-- Snake Game -->
+
+<div align="center">
+  <a href="https://github.com/cssgabriel/cssgabriel/blob/output/github-contribution-grid-snake.svg">
+    <p>
+      <img width="860em" src="https://github.com/cssgabriel/cssgabriel/blob/output/github-contribution-grid-snake.svg">
+    </p>
+  </a>
+</div>
 
   
   
