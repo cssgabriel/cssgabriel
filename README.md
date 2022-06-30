@@ -11,6 +11,12 @@
   <a href="https://github.com/cssgabriel/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=consolas&size=24&duration=4000&color=25D1E8&center=true&lines=Desenvolvedor+Web+Front-end...;Em+constante+aprendizado!"></a>
 </p>
 
+<!-- REDES SOCIAIS -->
+
+<div align="center">
+  <a href = "mailto:gabrielcss.oficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
 <!--
 **cssgabriel/cssgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -98,6 +104,7 @@ Here are some ideas to get you started:
 
 </div>
 -->
+
 ## 🚀 Contribution Graph & Snake Game
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
