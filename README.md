@@ -21,22 +21,7 @@
   <a href="https://www.facebook.com/profile.php?id=100049080796254" target="_blank"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/facebook.png" target="_blank"></a>
 </div>
 
-<!--
-**cssgabriel/cssgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 🔥 Streak stats
+## 🔥 Estatísticas De Frequência
 
 <!-- GitHub Readme Streak Stats - https://github.com/cssgabriel/github-readme-streak-stats -->
 
@@ -48,34 +33,37 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-## 👷 Hard Skills
-<!-- Hard Skills -->
+## 🛠️ Ferramentas Favoritas
 
+### 👨‍💻 Linguagens de programação e marcação
+<br>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      </td>
-      <td>
-        <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      </td>
-      <td>
-        <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      </td>
-      <td>
-        <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
-      </td>
-    </tr>
-  </table>
+  <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
 </div>
+<!-- AINDA NÃO ESTÁ EM USO
+### 🧰 Frameworks e bibliotecas
 
-## 📊 Github stats
+<p>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+</p>
+
+### 💻 Software e ferramentas
+
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+</p>
+-->
+<br>
+
+## 📊 Estatísticas Do Github
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻 Estatísticas do perfil</summary>
   <br/>
   <div align="center">
     <a href="https://github.com/cssgabriel/github-readme-streak-stats">
@@ -109,7 +97,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-## 🚀 Contribution Graph & Snake Game
+## 🚀 Gráfico De Contribuição & Snake Game
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
