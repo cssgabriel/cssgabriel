@@ -29,19 +29,22 @@ Here are some ideas to get you started:
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cssgabriel&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/cssgabriel)
 -->
-
-<div align="center">
-  <a href="https://github.com/cssgabriel/github-readme-streak-stats">
-    <p>
-      <img width="500em" src="https://github-readme-stats.vercel.app/api?username=cssgabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </p>
-    <p>
-      <img width="500em" src="https://github-readme-streak-stats.herokuapp.com?user=cssgabriel&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
-    </p>
-    <p>
-      <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssgabriel&layout=compact&langs_count=7&theme=dracula"/>
-    </p>
-  </a>
+<div>
+  <div align="left">
+    <a href="https://github.com/cssgabriel/github-readme-streak-stats">
+      <p>
+        <img width="400em" src="https://github-readme-stats.vercel.app/api?username=cssgabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      </p>
+      <p>
+        <img width="400em" src="https://github-readme-streak-stats.herokuapp.com?user=cssgabriel&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+      </p>
+      <p>
+        <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssgabriel&layout=compact&langs_count=7&theme=dracula"/>
+      </p>
+    </a>
+  </div>
+  <div align="right">
+  </div>
 </div>
 
 <!-- Linguagens -->
