@@ -26,11 +26,13 @@
 <!-- GitHub Readme Streak Stats - https://github.com/cssgabriel/github-readme-streak-stats -->
 
 <div align="center">
+  <br>
   <a href="https://github.com/cssgabriel/github-readme-streak-stats">
     <p>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=cssgabriel&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
     </p>
   </a>
+  <br>
 </div>
 
 ## 🛠️ Ferramentas Favoritas
