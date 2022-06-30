@@ -19,6 +19,7 @@
   <a href="https://instagram.com/css.gabriel" target="_blank"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/instagram.png" target="_blank"></a>
   <a href="https://discord.com/" target="_blank"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/discord.png" target="_blank"></a>
   <a href="https://www.facebook.com/profile.php?id=100049080796254" target="_blank"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/facebook.png" target="_blank"></a>
+  <a href = "mailto:gabrielcss.oficial@gmail.com"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/gmail.png" target="_blank"></a>
 </div>
 
 ## 🔥 Estatísticas De Frequência
