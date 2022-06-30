@@ -14,7 +14,11 @@
 <!-- REDES SOCIAIS -->
 
 <div align="center">
-  <a href = "mailto:gabrielcss.oficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <br>
+  <a href="https://www.linkedin.com/in/gabriel-carlos-429534238/" target="_blank"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/linkedin.png" target="_blank"></a>
+  <a href="https://instagram.com/css.gabriel" target="_blank"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/instagram.png" target="_blank"></a>
+  <a href="https://discord.com/" target="_blank"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/discord.png" target="_blank"></a>
+  <a href="https://www.facebook.com/profile.php?id=100049080796254" target="_blank"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/facebook.png" target="_blank"></a>
 </div>
 
 <!--
@@ -51,16 +55,16 @@ Here are some ideas to get you started:
   <table>
     <tr>
       <td>
-        <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       </td>
       <td>
-        <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       </td>
       <td>
-        <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       </td>
       <td>
-        <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
+        <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
       </td>
     </tr>
   </table>
