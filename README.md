@@ -5,10 +5,10 @@
   </h1>
 </div>
 
-<!-- Typing SVG - [https://github.com/DenverCoder1/readme-typing-svg](https://readme-typing-svg.herokuapp.com/demo/) -->
+<!-- Typing SVG - DenverCorder1[https://github.com/DenverCoder1/readme-typing-svg](https://readme-typing-svg.herokuapp.com/demo/) -->
 
 <p align="center">
-  <a href="https://github.com/cssgabriel/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=consolas&size=24&duration=4000&color=25D1E8&center=true&lines=Desenvolvedor+Web+Front-end...;Em+constante+aprendizado!"></a>
+  <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com/?font=consolas&size=24&duration=4000&color=25D1E8&center=true&lines=Desenvolvedor+Web+Front-end...;Em+constante+aprendizado!"></a>
 </p>
 
 <!-- REDES SOCIAIS -->
