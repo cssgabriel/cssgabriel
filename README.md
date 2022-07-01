@@ -20,6 +20,29 @@
   <a href="https://discord.com/" target="_blank"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/discord.png" target="_blank"></a>
   <a href="https://www.facebook.com/profile.php?id=100049080796254" target="_blank"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/facebook.png" target="_blank"></a>
   <a href = "mailto:gabrielcss.oficial@gmail.com"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/gmail.png" target="_blank"></a>
+  <br>
+</div>
+
+## 💬 Apresentação
+
+<div>
+  <br>
+  <p>Depois de alguns anos trabalhando no setor de manutenção industrial, e atualmente, em uma contabilidade, estou buscando fazer minha <strong>transição de carreira para o ramo de tecnologia</strong>.</p>
+  <p>Desde sempre gostei de desafios e resolver problemas. Por isso, me encontrei na programação.</p>
+  <p>Estou buscando minha <strong>primeira oportunidade</strong> como desenvolvedor web.</p>
+  <p>Já possuo conhecimento em <strong>HTML, CSS, JavaScript e Python</strong>. Tenho conhecimento básico também em <strong>Bootstrap, Git e GitHub</strong>.</p>
+  <p>Está em meu cronograma de estudos aprender sobre:</p>
+  <ul>
+    <li><strong>Node.js</strong></li>
+    <li><strong>MongoDB</strong></li>
+    <li><strong>Bootstrap</strong></li>
+    <li><strong>Express.js</strong></li>
+    <li><strong>React</strong></li>
+    <li><strong>Angular</strong></li>
+    <li><strong>Vue.js</strong></li>
+  </ul>
+  <p>Estou aberto a novas oportunidades. Entre em contato comigo, será um prazer para mim! 😉</p>
+  <br>
 </div>
 
 ## 🔥 Estatísticas De Frequência
