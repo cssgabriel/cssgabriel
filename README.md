@@ -31,15 +31,20 @@
   <p>Desde sempre gostei de desafios e resolver problemas. Por isso, me encontrei na programação.</p>
   <p>Estou buscando minha <strong>primeira oportunidade</strong> como desenvolvedor web.</p>
   <p>Já possuo conhecimento em <strong>HTML, CSS, JavaScript, Python, GIT e GitHub</strong>.</p>
-  <p>Está em meu cronograma de estudos aprender sobre:</p>
+  <p>Estou estudando:</p>
   <ul>
-    <li><strong>Node.js</strong></li>
-    <li><strong>MongoDB</strong></li>
-    <li><strong>Bootstrap</strong></li>
-    <li><strong>Express.js</strong></li>
+    <li><strong>TypeScript</strong></li>
     <li><strong>React</strong></li>
-    <li><strong>Angular</strong></li>
-    <li><strong>Vue.js</strong></li>
+    <li><strong>Saas</strong></li>
+    <li><strong>Bootstrap</strong></li>
+    <li><strong>Vue</strong></li>
+  </ul>
+  <p>E também quero aprender sobre:</p>
+  <ul>
+    <li><strong>SQL</strong></li>
+    <li><strong>MongoDB</strong></li>
+    <li><strong>Express</strong></li>
+    <li><strong>Node</strong></li>
   </ul>
   <p>Estou aberto a novas oportunidades. Entre em contato comigo, será um prazer para mim! 😉</p>
   <br>
