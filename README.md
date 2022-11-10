@@ -30,7 +30,7 @@
   <p>Depois de alguns anos trabalhando no setor de manutenção industrial, e atualmente, em uma contabilidade, estou buscando fazer minha <strong>transição de carreira para o ramo de tecnologia</strong>.</p>
   <p>Desde sempre gostei de desafios e resolver problemas. Por isso, me encontrei na programação.</p>
   <p>Estou buscando minha <strong>primeira oportunidade</strong> como desenvolvedor web.</p>
-  <p>Já possuo conhecimento em <strong>HTML, CSS, JavaScript e Python</strong>. Tenho conhecimento básico também em <strong>Bootstrap, Git e GitHub</strong>.</p>
+  <p>Já possuo conhecimento em <strong>HTML, CSS, JavaScript, Python, GIT e GitHub</strong>.</p>
   <p>Está em meu cronograma de estudos aprender sobre:</p>
   <ul>
     <li><strong>Node.js</strong></li>
