@@ -135,7 +135,7 @@
 <div align="center">
   <a href="https://github.com/cssgabriel/github-readme-activity-graph">
     <p>
-      <img width="850em" src="https://activity-graph.herokuapp.com/graph?username=cssgabriel&theme=dracula">
+      <img width="850em" src="https://github-readme-activity-graph.cyclic.app?username=cssgabriel&theme=dracula">
     </p>
   </a>
 </div>
@@ -144,9 +144,9 @@
 
 <div align="center">
   <a href="https://github.com/cssgabriel/cssgabriel/blob/output/github-contribution-grid-snake.svg">
-    <p>
+    <div>
       <img width="860em" src="https://github.com/cssgabriel/cssgabriel/blob/output/github-contribution-grid-snake.svg">
-    </p>
+    </div>
   </a>
 </div>
 
