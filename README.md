@@ -127,7 +127,7 @@
 
 </div>
 -->
-
+<!--
 ## 🚀 Gráfico De Contribuição & Snake Game
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
@@ -149,7 +149,7 @@
     </div>
   </a>
 </div>
-
+-->
   
   
   
