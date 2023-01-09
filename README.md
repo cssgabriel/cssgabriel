@@ -83,6 +83,7 @@
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
 -->
+
 ### 💻 Software e ferramentas
 
 <br>
