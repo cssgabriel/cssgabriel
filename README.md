@@ -130,7 +130,7 @@
 <!--
 ## 🚀 Gráfico De Contribuição & Snake Game
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+https://github.com/ashutosh00710/github-readme-activity-graph
 
 <div align="center">
   <a href="https://github.com/cssgabriel/github-readme-activity-graph">
@@ -140,7 +140,7 @@
   </a>
 </div>
 
-<!-- Snake Game -->
+Snake Game
 
 <div align="center">
   <a href="https://github.com/cssgabriel/cssgabriel/blob/output/github-contribution-grid-snake.svg">
