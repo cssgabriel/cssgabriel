@@ -133,19 +133,17 @@
 
 </div>
 -->
-<!--
-## 🚀 Gráfico De Contribuição & Snake Game
 
-https://github.com/ashutosh00710/github-readme-activity-graph
+## 🚀 Contribuição
 
 <div align="center">
-  <a href="https://github.com/cssgabriel/github-readme-activity-graph">
+  <a href="https://github-readme-activity-graph.cyclic.app/graph?username=cssgabriel&theme=dracula">
     <p>
-      <img width="850em" src="https://github-readme-activity-graph.cyclic.app?username=cssgabriel&theme=dracula">
+      <img width="850em" src="https://github-readme-activity-graph.cyclic.app/graph?username=cssgabriel&theme=dracula">
     </p>
   </a>
 </div>
-
+<!--
 Snake Game
 
 <div align="center">
