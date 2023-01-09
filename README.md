@@ -30,20 +30,17 @@
   <p>Depois de alguns anos trabalhando no setor de manutenção industrial, e atualmente, em uma contabilidade, estou buscando fazer minha <strong>transição de carreira para o ramo de tecnologia</strong>.</p>
   <p>Desde sempre gostei de desafios e resolver problemas. Por isso, me encontrei na programação.</p>
   <p>Estou buscando minha <strong>primeira oportunidade</strong> como desenvolvedor web.</p>
-  <p>Já possuo conhecimento em <strong>HTML, CSS, JavaScript, Python, GIT e GitHub</strong>.</p>
+  <p>Já possuo conhecimento em <strong>HTML, CSS, JavaScript, SASS, WordPress, Python, Git e Github</strong>.</p>
   <p>Estou estudando:</p>
   <ul>
     <li><strong>TypeScript</strong></li>
     <li><strong>React</strong></li>
-    <li><strong>Saas</strong></li>
     <li><strong>Bootstrap</strong></li>
     <li><strong>Vue</strong></li>
   </ul>
   <p>E também quero aprender sobre:</p>
   <ul>
     <li><strong>SQL</strong></li>
-    <li><strong>MongoDB</strong></li>
-    <li><strong>Express</strong></li>
     <li><strong>Node</strong></li>
   </ul>
   <p>Estou aberto a novas oportunidades. Entre em contato comigo, será um prazer para mim! 😉</p>
@@ -67,26 +64,34 @@
 ## 🛠️ Ferramentas Favoritas
 
 ### 👨‍💻 Linguagens de programação e marcação
+
 <br>
 <div align="center">
   <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
 </div>
 <!-- AINDA NÃO ESTÁ EM USO
 ### 🧰 Frameworks e bibliotecas
 
-<p>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-</p>
-
+<br>
+<div align="center">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+</div>
+-->
 ### 💻 Software e ferramentas
 
-<p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-</p>
--->
+<br>
+<div align="center">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
+</div>
+
 <br>
 
 ## 📊 Estatísticas Do Github
