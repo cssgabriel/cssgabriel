@@ -30,8 +30,15 @@
   <p>Apaixonado por tecnologia, desafios e resolução de problemas. Sou esforçado e aprendo rápido. Aprecio trabalhar em equipe. Prezo pela responsabilidade com prazos e qualidade em minhas entregas. Sou determinado e direcionado a entrega de resultados.</p>
   <p>Depois de alguns anos trabalhando no setor de manutenção industrial, e atualmente, em uma contabilidade, estou buscando fazer minha <strong>transição de carreira para o ramo de tecnologia</strong>.</p>
   <p>Desde sempre gostei de desafios e resolver problemas. Por isso, me encontrei na programação.</p>
-  <p>Estou buscando minha <strong>primeira oportunidade</strong> como desenvolvedor web.</p>
-  <p>Já possuo conhecimento em <strong>HTML, CSS, JavaScript, SASS, TypeSCript, WordPress, Python, Git e Github</strong>.</p>
+</div>
+
+### Meus primeiros trabalhos
+
+<div>
+  <p>Desde abril de 2020, trabalho fazendo freelas. A marioria dos projetos envolve a criação de sites institucionais e landing pages em geral. No começo, a maioria dos sites eram feitos em WordPress e Elementor.</p>
+  <p>Durante esse período pude aprender, por meio de vários projetos, a realizar integrações com ferramentas de e-mail marketing, como LeadLovers e SendInBlue. Bem como um básico sobre chatbot.</p>
+  <p>Aprendi sobre <strong>SEO</strong>, estratégias de <strong>marketing digital</strong>, principalmente sobre tráfego pago, anunciando nas principais mídias sociais, como Facebook, Instagram, Google (rede de pesquisa e display) e YouTube (principalmente in-stream).</p>
+  <p>Atualmente, possuo conhecimento em <strong>HTML, CSS, JavaScript, SASS, TypeScript, WordPress, Git, Github</strong> e básico de <strong>Python</strong>. Também sei trabalhar com <strong>Elementor, Divi e Figma</strong>.</p>
   <p>Estou estudando:</p>
   <ul>
     <li><strong>React</strong></li>
