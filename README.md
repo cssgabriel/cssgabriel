@@ -27,15 +27,16 @@
 
 <div>
   <br>
+  <p>Apaixonado por tecnologia, desafios e resolução de problemas. Sou esforçado e aprendo rápido. Aprecio trabalhar em equipe. Prezo pela responsabilidade com prazos e qualidade em minhas entregas. Sou determinado e direcionado a entrega de resultados.</p>
   <p>Depois de alguns anos trabalhando no setor de manutenção industrial, e atualmente, em uma contabilidade, estou buscando fazer minha <strong>transição de carreira para o ramo de tecnologia</strong>.</p>
   <p>Desde sempre gostei de desafios e resolver problemas. Por isso, me encontrei na programação.</p>
   <p>Estou buscando minha <strong>primeira oportunidade</strong> como desenvolvedor web.</p>
-  <p>Já possuo conhecimento em <strong>HTML, CSS, JavaScript, SASS, WordPress, Python, Git e Github</strong>.</p>
+  <p>Já possuo conhecimento em <strong>HTML, CSS, JavaScript, SASS, TypeSCript, WordPress, Python, Git e Github</strong>.</p>
   <p>Estou estudando:</p>
   <ul>
-    <li><strong>TypeScript</strong></li>
     <li><strong>React</strong></li>
     <li><strong>Bootstrap</strong></li>
+    <li><strong>Tailwind CSS</strong></li>
     <li><strong>Vue</strong></li>
   </ul>
   <p>E também quero aprender sobre:</p>
