@@ -38,13 +38,13 @@
   <p>Desde abril de 2020, trabalho fazendo freelas. A marioria dos projetos envolve a criação de sites institucionais e landing pages em geral. No começo, a maioria dos sites eram feitos em WordPress e Elementor.</p>
   <p>Durante esse período pude aprender, por meio de vários projetos, a realizar integrações com ferramentas de e-mail marketing, como LeadLovers e SendInBlue. Bem como um básico sobre chatbot.</p>
   <p>Aprendi sobre <strong>SEO</strong>, estratégias de <strong>marketing digital</strong>, principalmente sobre tráfego pago, anunciando nas principais mídias sociais, como Facebook, Instagram, Google (rede de pesquisa e display) e YouTube (principalmente in-stream).</p>
-  <p>Atualmente, possuo conhecimento em <strong>HTML, CSS, JavaScript, SASS, TypeScript, WordPress, Git, Github</strong> e básico de <strong>Python</strong>. Também sei trabalhar com <strong>Elementor, Divi e Figma</strong>.</p>
-  <p>Estou estudando:</p>
+  <p>Atualmente, possuo conhecimento em <strong>HTML, CSS, JavaScript, SASS, TypeScript, React, WordPress, Git, Github</strong> e básico de <strong>Python</strong>. Também sei trabalhar com <strong>Elementor, Divi e Figma</strong>.</p>
+  <p>Pretendo estudar:</p>
   <ul>
-    <li><strong>React</strong></li>
     <li><strong>Bootstrap</strong></li>
     <li><strong>Tailwind CSS</strong></li>
     <li><strong>Vue</strong></li>
+    <li><strong>PHP</strong></li>
   </ul>
   <p>E também quero aprender sobre:</p>
   <ul>
@@ -61,9 +61,9 @@
 
 <div align="center">
   <br>
-  <a href="https://github.com/cssgabriel/github-readme-streak-stats">
+  <a href="https://github-readme-stats.vercel.app/api?username=cssgabriel&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D">
     <p>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=cssgabriel&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=cssgabriel&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
     </p>
   </a>
   <br>
@@ -78,19 +78,20 @@
   <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+  <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
+  <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg">
   <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
 </div>
-<!-- AINDA NÃO ESTÁ EM USO
-### 🧰 Frameworks e bibliotecas
+
+### 🧰 Frameworks/Bibliotecas e Pré-processadores
 
 <br>
 <div align="center">
-  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+<!--   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"> -->
+<!--   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"> -->
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
 </div>
--->
 
 ### 💻 Software e ferramentas
 
@@ -147,14 +148,14 @@
 ## 🚀 Contribuição
 
 <div align="center">
-  <a href="https://github-readme-activity-graph.cyclic.app/graph?username=cssgabriel&theme=dracula">
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=cssgabriel&theme=dracula">
     <p>
-      <img width="850em" src="https://github-readme-activity-graph.cyclic.app/graph?username=cssgabriel&theme=dracula">
+      <img width="850em" src="https://github-readme-activity-graph.vercel.app/graph?username=cssgabriel&theme=dracula">
     </p>
   </a>
 </div>
 <!--
-Snake Game
+### Snake Game
 
 <div align="center">
   <a href="https://github.com/cssgabriel/cssgabriel/blob/output/github-contribution-grid-snake.svg">
