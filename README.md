@@ -57,13 +57,13 @@
 
 ## 🔥 Estatísticas De Frequência
 
-<!-- GitHub Readme Streak Stats - https://github.com/cssgabriel/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats - https://streak-stats.demolab.com/?user=cssgabriel&theme=dracula -->
 
 <div align="center">
   <br>
-  <a href="https://github-readme-stats.vercel.app/api?username=cssgabriel&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D">
+  <a href="https://streak-stats.demolab.com/?user=cssgabriel&theme=dracula">
     <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=cssgabriel&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+      <img src="https://streak-stats.demolab.com/?user=cssgabriel&theme=dracula"/>
     </p>
   </a>
   <br>
