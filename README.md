@@ -25,41 +25,21 @@
 
 ## 💬 Apresentação
 
-<div>
-  <br>
-  <p>Apaixonado por tecnologia, desafios e resolução de problemas. Sou esforçado e aprendo rápido. Aprecio trabalhar em equipe. Prezo pela responsabilidade com prazos e qualidade em minhas entregas. Sou determinado e direcionado a entrega de resultados.</p>
-  <p>Depois de alguns anos trabalhando no setor de manutenção industrial, e atualmente, em uma contabilidade, estou buscando fazer minha <strong>transição de carreira para o ramo de tecnologia</strong>.</p>
-  <p>Desde sempre gostei de desafios e resolver problemas. Por isso, me encontrei na programação.</p>
-</div>
+Apaixonado por tecnologia, mercado financeiro, criptomoedas e resolução de problemas, sou um Desenvolvedor Front-end com mais de 4 anos de experiência. Comecei minha carreira como freelancer, criando sites utilizando WordPress e Elementor.
 
-### Meus primeiros trabalhos
+Possuo sólidos conhecimentos em:
 
-<div>
-  <p>Desde abril de 2020, trabalho fazendo freelas. A marioria dos projetos envolve a criação de sites institucionais e landing pages em geral. No começo, a maioria dos sites eram feitos em WordPress e Elementor.</p>
-  <p>Durante esse período pude aprender, por meio de vários projetos, a realizar integrações com ferramentas de e-mail marketing, como LeadLovers e SendInBlue. Bem como um básico sobre chatbot.</p>
-  <p>Aprendi sobre <strong>SEO</strong>, estratégias de <strong>marketing digital</strong>, principalmente sobre tráfego pago, anunciando nas principais mídias sociais, como Facebook, Instagram, Google (rede de pesquisa e display) e YouTube (principalmente in-stream).</p>
-  <p>Atualmente, possuo conhecimento em <strong>HTML, CSS, JavaScript, SASS, TypeScript, React, WordPress, Git, Github</strong> e básico de <strong>Python</strong>. Também sei trabalhar com <strong>Elementor, Divi e Figma</strong>.</p>
-  <p>Pretendo estudar:</p>
-  <ul>
-    <li><strong>Bootstrap</strong></li>
-    <li><strong>Tailwind CSS</strong></li>
-    <li><strong>Vue</strong></li>
-    <li><strong>PHP</strong></li>
-  </ul>
-  <p>E também quero aprender sobre:</p>
-  <ul>
-    <li><strong>SQL</strong></li>
-    <li><strong>Node</strong></li>
-  </ul>
-  <p>Estou aberto a novas oportunidades. Entre em contato comigo, será um prazer para mim! 😉</p>
-  <br>
-</div>
+- HTML, CSS, JavaScript, React, PHP, Laravel, TypeScript, TailwindCSS, SASS, jQuery, Bootstrap, Git e GitHub.
+
+Valorizo o trabalho em equipe e prezo pela responsabilidade e qualidade em minhas entregas. Sou determinado e focado em resultados.
+
+Para conhecer melhor meu trabalho, acesse meu currículo online: (Currículo Online)[https://cssgabriel-cv.netlify.app/] e meu portfólio no Behance: (Behance)[https://www.behance.net/gabrielcarlos20].
 
 ## 🔥 Estatísticas De Frequência
 
 <!-- GitHub Readme Streak Stats - https://streak-stats.demolab.com/?user=cssgabriel&theme=dracula -->
 
-<div align="center">
+<div>
   <br>
   <a href="https://streak-stats.demolab.com/?user=cssgabriel&theme=dracula">
     <p>
@@ -74,31 +54,37 @@
 ### 👨‍💻 Linguagens de programação e marcação
 
 <br>
-<div align="center">
-  <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
-  <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg">
-  <img align="center" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
+<div>
+  <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
+  <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg">
+  <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
 </div>
 
 ### 🧰 Frameworks/Bibliotecas e Pré-processadores
 
 <br>
-<div align="center">
-<!--   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"> -->
-<!--   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"> -->
+<div>
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+<!--   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"> -->
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
 </div>
 
 ### 💻 Software e ferramentas
 
 <br>
-<div align="center">
+<div>
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
@@ -113,7 +99,7 @@
 <details> 
   <summary>💻 Estatísticas do perfil</summary>
   <br/>
-  <div align="center">
+  <div>
     <a href="https://github.com/cssgabriel/github-readme-streak-stats">
       <p>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cssgabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
