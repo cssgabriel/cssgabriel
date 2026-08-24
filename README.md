@@ -5,10 +5,10 @@
   </h1>
 </div>
 
-<!-- Typing SVG - DenverCorder1[https://github.com/DenverCoder1/readme-typing-svg](https://readme-typing-svg.herokuapp.com/demo/) -->
+<!-- Typing SVG - DenverCoder1[https://github.com/DenverCoder1/readme-typing-svg](https://readme-typing-svg.herokuapp.com/demo/) -->
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com/?font=consolas&size=24&duration=4000&color=25D1E8&center=true&lines=Desenvolvedor+Web+Front-end...;Em+constante+aprendizado!"></a>
+  <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&pause=1000&width=435&center=true&vCenter=true&lines=Desenvolvedor+Front-End;React+%2B+TypeScript;Em+transi%C3%A7%C3%A3o+para+Back-End+Java;Clean+Code+%26+SOLID"></a>
 </p>
 
 <!-- REDES SOCIAIS -->
@@ -16,28 +16,33 @@
 <div align="center">
   <br>
   <a href="https://www.linkedin.com/in/cssgabriel" target="_blank"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/linkedin.png" target="_blank"></a>
-  <a href="https://instagram.com/css.gabriel" target="_blank"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/instagram.png" target="_blank"></a>
-  <a href="https://discord.com/" target="_blank"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/discord.png" target="_blank"></a>
-  <a href="https://www.facebook.com/profile.php?id=100049080796254" target="_blank"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/facebook.png" target="_blank"></a>
   <a href = "mailto:gabrielcss.oficial@gmail.com"><img width="50em" src="https://github.com/cssgabriel/cssgabriel/blob/main/icons/gmail.png" target="_blank"></a>
   <br>
 </div>
 
 ## 💬 Apresentação
 
-Apaixonado por tecnologia, mercado financeiro, criptomoedas e resolução de problemas, sou um Desenvolvedor Front-end com mais de 4 anos de experiência. Comecei minha carreira como freelancer, criando sites utilizando WordPress e Elementor.
+Desenvolvedor Full Stack com mais de 6 anos de experiência, com atuação sólida em **Front-end (React, JavaScript, TypeScript)** e também em **Back-end com PHP/Laravel**. Comecei minha carreira como freelancer, criando sites com WordPress e Elementor, antes de migrar para desenvolvimento de aplicações mais robustas.
+
+Atualmente em transição para **Backend Java**, estudando Spring Boot, arquitetura em camadas, SOLID e Design Patterns — e aplicando tudo isso na prática construindo a [Wallet API](https://github.com/cssgabriel/java-wallet), um projeto que une meu interesse por mercado financeiro com o que venho aprendendo de backend.
 
 Possuo sólidos conhecimentos em:
 
-- HTML, CSS, JavaScript, React, PHP, Laravel, TypeScript, TailwindCSS, SASS, jQuery, Bootstrap, Git e GitHub.
+- **Front-end:** HTML, CSS/SASS, JavaScript, TypeScript, React, TailwindCSS, Bootstrap, jQuery
+- **Back-end:** PHP, Laravel, Java, Spring Boot, Spring Data JPA
+- **Banco de dados:** MySQL, PostgreSQL, MongoDB
+- **Ferramentas:** Git, GitHub, Docker (básico)
 
-Valorizo o trabalho em equipe e prezo pela responsabilidade e qualidade em minhas entregas. Sou determinado e focado em resultados.
+Para conhecer melhor meu trabalho, acesse meu [currículo online](https://cssgabriel-cv.netlify.app/).
 
-Para conhecer melhor meu trabalho, acesse meu currículo online: (Currículo Online)[https://cssgabriel-cv.netlify.app/] e meu portfólio no Behance: (Behance)[https://www.behance.net/gabrielcarlos20].
+## 🔨 Em construção agora
 
+**[Wallet API](https://github.com/cssgabriel/java-wallet)** — API REST em Java 25 + Spring Boot 4.1 para gerenciamento de carteiras de investimentos, com cotação em tempo real via Brapi. Aplicando SOLID, Design Patterns e arquitetura em camadas na prática.
+
+<!--
 ## 🔥 Estatísticas De Frequência
 
-<!-- GitHub Readme Streak Stats - https://streak-stats.demolab.com/?user=cssgabriel&theme=dracula -->
+GitHub Readme Streak Stats - https://streak-stats.demolab.com/?user=cssgabriel&theme=dracula 
 
 <div>
   <br>
@@ -48,6 +53,8 @@ Para conhecer melhor meu trabalho, acesse meu currículo online: (Currículo Onl
   </a>
   <br>
 </div>
+
+-->
 
 ## 🛠️ Ferramentas Favoritas
 
@@ -60,7 +67,7 @@ Para conhecer melhor meu trabalho, acesse meu currículo online: (Currículo Onl
   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg">
-  <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
+  <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ### 🧰 Frameworks/Bibliotecas e Pré-processadores
@@ -69,11 +76,10 @@ Para conhecer melhor meu trabalho, acesse meu currículo online: (Currículo Onl
 <div>
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-<!--   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"> -->
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
 </div>
 
@@ -83,53 +89,15 @@ Para conhecer melhor meu trabalho, acesse meu currículo online: (Currículo Onl
 <div>
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 </div>
 
 <br>
-
-## 📊 Estatísticas Do Github
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-<details> 
-  <summary>💻 Estatísticas do perfil</summary>
-  <br/>
-  <div>
-    <a href="https://github.com/cssgabriel/github-readme-streak-stats">
-      <p>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cssgabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssgabriel&layout=compact&langs_count=7&theme=dracula"/>
-      </p>
-    </a>
-  </div>
-</details>
-
-<!-- Avatar (opcional)
-
-    <img align="right" alt="Gabriel-picture" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-
- -->
-  
-<!--REDES SOCIAIS
-<div>
-  
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-
-  <a href="https://www.linkedin.com/in/gabriel-carlos-429534238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  <a href = "mailto:gabrielcss.oficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  <a href="https://instagram.com/css.gabriel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
-</div>
--->
 
 ## 🚀 Contribuição
 
@@ -140,19 +108,3 @@ Para conhecer melhor meu trabalho, acesse meu currículo online: (Currículo Onl
     </p>
   </a>
 </div>
-
-### Snake Game
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-</picture>
-</div>
-
-  
-  
-  
-  
-  
